@@ -36,18 +36,10 @@ EAR Calculation
 ---
 
 
-Press **Q** to quit.
+
 
 ---
 
-## 📁 Project Structure
-```
-drowsiness_detection/
-├── detect.py                          ← Main program
-├── requirements.txt                   ← Dependencies
-├── shape_predictor_68_face_landmarks.dat  ← dlib model (download separately)
-└── README.md                          ← This file
-```
 
 ---
 
@@ -55,12 +47,6 @@ drowsiness_detection/
 ---
 
 
-
-| Condition | EAR Value | Detection |
-|-----------|-----------|-----------|
-| Eyes Open | ~0.30     | AWAKE ✅  |
-| Eyes Half | ~0.20     | Warning ⚠️ |
-| Eyes Closed | ~0.05   | ALERT 🚨  |
 
 ---
 
