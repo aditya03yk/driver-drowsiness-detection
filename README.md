@@ -33,22 +33,6 @@ EAR Calculation
     └── EAR < 0.25 for 20 frames → DROWSY 🚨 → ALERT!
 ```
 
----
-
-
-
-
----
-
-
----
-
-
----
-
-
-
----
 
 ## 🌍 Real-World Applications
 - Highway driver monitoring systems
